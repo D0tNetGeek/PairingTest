@@ -1,0 +1,51 @@
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\QuestionServiceWebApi.dll.config
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\QuestionServiceWebApi.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\QuestionServiceWebApi.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\Microsoft.Practices.ServiceLocation.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\Newtonsoft.Json.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\System.Web.Helpers.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\System.Web.Mvc.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\System.Web.Razor.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\System.Web.WebPages.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\System.Web.WebPages.Razor.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\WebActivator.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\Microsoft.Practices.ServiceLocation.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\Newtonsoft.Json.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\System.Web.Helpers.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\System.Web.Mvc.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\System.Web.Razor.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\System.Web.WebPages.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\bin\System.Web.WebPages.Razor.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\obj\Debug\QuestionServiceWebApi.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\QuestionServiceWebApi\obj\Debug\QuestionServiceWebApi.pdb
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\QuestionServiceWebApi.dll.config
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\QuestionServiceWebApi.dll
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\QuestionServiceWebApi.pdb
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\Newtonsoft.Json.dll
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\System.Web.Helpers.dll
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\System.Web.Mvc.dll
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\System.Web.Razor.dll
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\System.Web.WebPages.dll
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\WebActivator.dll
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\Newtonsoft.Json.xml
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\System.Web.Helpers.xml
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\System.Web.Mvc.xml
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\System.Web.Razor.xml
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\System.Web.WebPages.xml
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\obj\Debug\QuestionServiceWebApi.csprojResolveAssemblyReference.cache
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\obj\Debug\QuestionServiceWebApi.dll
+C:\Work\Docs\CandidateTest\QuestionServiceWebApi\obj\Debug\QuestionServiceWebApi.pdb
