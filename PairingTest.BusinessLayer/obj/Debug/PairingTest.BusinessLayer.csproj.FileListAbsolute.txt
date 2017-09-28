@@ -1,0 +1,30 @@
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.BusinessLayer\bin\Debug\PairingTest.BusinessLayer.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.BusinessLayer\bin\Debug\PairingTest.BusinessLayer.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.BusinessLayer\bin\Debug\PairingTest.DAL.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.BusinessLayer\bin\Debug\PairingTest.Models.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.BusinessLayer\bin\Debug\PairingTest.DAL.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.BusinessLayer\bin\Debug\PairingTest.Models.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.BusinessLayer\obj\Debug\PairingTest.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.BusinessLayer\obj\Debug\PairingTest.BusinessLayer.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.BusinessLayer\obj\Debug\PairingTest.BusinessLayer.pdb
+C:\Work\Docs\CandidateTest\PairingTest.BusinessLayer\bin\Debug\PairingTest.BusinessLayer.dll
+C:\Work\Docs\CandidateTest\PairingTest.BusinessLayer\bin\Debug\PairingTest.BusinessLayer.pdb
+C:\Work\Docs\CandidateTest\PairingTest.BusinessLayer\bin\Debug\PairingTest.DAL.dll
+C:\Work\Docs\CandidateTest\PairingTest.BusinessLayer\bin\Debug\PairingTest.Models.dll
+C:\Work\Docs\CandidateTest\PairingTest.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Work\Docs\CandidateTest\PairingTest.BusinessLayer\bin\Debug\PairingTest.DAL.pdb
+C:\Work\Docs\CandidateTest\PairingTest.BusinessLayer\bin\Debug\PairingTest.Models.pdb
+C:\Work\Docs\CandidateTest\PairingTest.BusinessLayer\obj\Debug\PairingTest.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Work\Docs\CandidateTest\PairingTest.BusinessLayer\obj\Debug\PairingTest.BusinessLayer.dll
+C:\Work\Docs\CandidateTest\PairingTest.BusinessLayer\obj\Debug\PairingTest.BusinessLayer.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.BusinessLayer\bin\Debug\PairingTest.BusinessLayer.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.BusinessLayer\bin\Debug\PairingTest.BusinessLayer.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.BusinessLayer\bin\Debug\PairingTest.DAL.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.BusinessLayer\bin\Debug\PairingTest.Models.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.BusinessLayer\bin\Debug\PairingTest.DAL.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.BusinessLayer\bin\Debug\PairingTest.Models.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.BusinessLayer\obj\Debug\PairingTest.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.BusinessLayer\obj\Debug\PairingTest.BusinessLayer.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.BusinessLayer\obj\Debug\PairingTest.BusinessLayer.pdb
