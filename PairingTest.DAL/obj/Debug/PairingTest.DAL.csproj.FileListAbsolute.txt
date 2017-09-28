@@ -1,0 +1,34 @@
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.DAL\bin\Debug\PairingTest.DAL.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.DAL\bin\Debug\PairingTest.DAL.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.DAL\bin\Debug\PairingTest.Models.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.DAL\bin\Debug\PairingTest.Models.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.DAL\obj\Debug\PairingTest.DAL.csprojResolveAssemblyReference.cache
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.DAL\obj\Debug\PairingTest.DAL.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.DAL\obj\Debug\PairingTest.DAL.pdb
+C:\Work\Docs\CandidateTest\PairingTest.DAL\bin\Debug\PairingTest.DAL.dll
+C:\Work\Docs\CandidateTest\PairingTest.DAL\bin\Debug\PairingTest.DAL.pdb
+C:\Work\Docs\CandidateTest\PairingTest.DAL\bin\Debug\PairingTest.Models.dll
+C:\Work\Docs\CandidateTest\PairingTest.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Work\Docs\CandidateTest\PairingTest.DAL\bin\Debug\PairingTest.Models.pdb
+C:\Work\Docs\CandidateTest\PairingTest.DAL\obj\Debug\PairingTest.DAL.csprojResolveAssemblyReference.cache
+C:\Work\Docs\CandidateTest\PairingTest.DAL\obj\Debug\PairingTest.DAL.dll
+C:\Work\Docs\CandidateTest\PairingTest.DAL\obj\Debug\PairingTest.DAL.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest\CandidateTest\PairingTest.DAL\bin\Debug\PairingTest.DAL.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest\CandidateTest\PairingTest.DAL\bin\Debug\PairingTest.DAL.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest\CandidateTest\PairingTest.DAL\bin\Debug\PairingTest.Models.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest\CandidateTest\PairingTest.DAL\bin\Debug\System.Net.Http.Formatting.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest\CandidateTest\PairingTest.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest\CandidateTest\PairingTest.DAL\bin\Debug\PairingTest.Models.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest\CandidateTest\PairingTest.DAL\bin\Debug\System.Net.Http.Formatting.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest\CandidateTest\PairingTest.DAL\obj\Debug\PairingTest.DAL.csprojResolveAssemblyReference.cache
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest\CandidateTest\PairingTest.DAL\obj\Debug\PairingTest.DAL.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest\CandidateTest\PairingTest.DAL\obj\Debug\PairingTest.DAL.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.DAL\bin\Debug\PairingTest.DAL.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.DAL\bin\Debug\PairingTest.DAL.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.DAL\bin\Debug\PairingTest.Models.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.DAL\bin\Debug\PairingTest.Models.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.DAL\obj\Debug\PairingTest.DAL.csprojResolveAssemblyReference.cache
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.DAL\obj\Debug\PairingTest.DAL.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.DAL\obj\Debug\PairingTest.DAL.pdb

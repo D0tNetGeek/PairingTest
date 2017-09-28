@@ -1,0 +1,13 @@
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.Models\bin\Debug\PairingTest.Models.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.Models\bin\Debug\PairingTest.Models.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.Models\obj\Debug\PairingTest.Models.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest-master\CandidateTest-master\PairingTest.Models\obj\Debug\PairingTest.Models.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.Models\bin\Debug\PairingTest.Models.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.Models\bin\Debug\PairingTest.Models.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.Models\obj\Debug\PairingTest.Models.csprojResolveAssemblyReference.cache
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.Models\obj\Debug\PairingTest.Models.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\CandidateTest - Copy\CandidateTest\PairingTest.Models\obj\Debug\PairingTest.Models.pdb
+C:\Work\Docs\CandidateTest\PairingTest.Models\bin\Debug\PairingTest.Models.dll
+C:\Work\Docs\CandidateTest\PairingTest.Models\bin\Debug\PairingTest.Models.pdb
+C:\Work\Docs\CandidateTest\PairingTest.Models\obj\Debug\PairingTest.Models.dll
+C:\Work\Docs\CandidateTest\PairingTest.Models\obj\Debug\PairingTest.Models.pdb
