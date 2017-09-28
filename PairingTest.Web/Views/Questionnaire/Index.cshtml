@@ -1,0 +1,21 @@
+﻿@model PairingTest.Models.QuestionAnswerViewModel
+@*@model PairingTest.Models.QuestionnaireViewModel*@
+
+<html>
+    <head>
+        <title>@Model.QuestionnaireTitle</title>
+    </head>
+    <body>
+        @foreach (var question in Model.QuestionsAnswers.Select((qa, indx) => new { indx = indx + 1, QA = qa }))
+        {
+            <div>
+                @Html.LabelFor(m => question.QA.Question, "Question " + question.indx)
+                @Html.DisplayFor(m => question.QA.Question)
+            </div>
+            <div>
+                @Html.LabelFor(m => question.QA.Answer, "Answer")
+                @Html.TextBoxFor(m=>question.QA.Answer)
+            </div>
+        }
+    </body>
+</html>
